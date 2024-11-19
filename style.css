@@ -1,0 +1,59 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+.event {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: grey;
+}
+
+.event:hover {
+    cursor: pointer;
+}
+
+.upcoming:hover {
+    color: black;
+}
+
+.past:hover {
+    color: black;
+}
+
+.about:hover {
+    color: black;
+}
+
+.pe {
+    display: none;
+    /* align-items: center;
+    justify-content: center; */
+}
+
+.ue {
+    display: none;
+}
+
+.about {
+    text-decoration: underline;
+}
+
+.ue1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.pe1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.ab {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
